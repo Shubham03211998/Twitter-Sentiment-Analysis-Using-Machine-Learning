@@ -13,8 +13,9 @@ This is a sentiment analysis project done on twitter data using 10 Machine Learn
 7. **Re**
 
 #### How to Use my application
-1. **First Generate your API Through Twitter developer website[_`Click Here`_](https://developer.twitter.com/)**
-2. **Run**
-3. **When the UI will show up,enter the username of the profile wihtout using @**
-4. **Use the slider to set the number of tweets you wanted to fetch**
-5. **The result will show up.**
+* **First Generate your API Through Twitter developer website[_`Click Here`_](https://developer.twitter.com/)**
+* **Import the needed modules mentioned above**
+* **Open the file[_`Tweety.py`_]()**
+* **First the introduction page will open and then the main page where you need to enter the usename of the profile whose tweets you need to analyze**
+* **Then using the scale slider enter the number of tweets to be analyzed**
+* **Then the required result will show up**
