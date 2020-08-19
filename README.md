@@ -17,7 +17,7 @@ This is a sentiment analysis project done on twitter data using 10 Machine Learn
 * **Import the needed modules mentioned above**
 * **Open the file[_`Tweety.py`_]()**
 * **First the introduction page will open and then the main page where you need to enter the usename of the profile whose tweets you need to analyze**
-* **Then using the scale slider enter the number of tweets to be analyzed**
+* **Then enter the number of tweets you want to analyse it should be an integer**
 * **Then the required result will show up**
 
 #### Online References
