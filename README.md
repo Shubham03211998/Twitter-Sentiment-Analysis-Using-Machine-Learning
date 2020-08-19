@@ -14,9 +14,9 @@ This is a sentiment analysis project done on twitter data using 10 Machine Learn
 
 #### How to Use my application
 * **First Generate your API Through Twitter developer website[_`Click Here`_](https://developer.twitter.com/)**
-* **Enter the API and Access tokens generated from twitter and enter it into file[_`Credentials.py`_]()**
+* **Enter the API and Access tokens generated from twitter and enter it into file[_`Credentials.py`_](https://github.com/Shubham03211998/Twitter-Sentiment-Analysis-Using-Machine-Learning/blob/master/credentials.py)**
 * **Import the needed modules mentioned above**
-* **Open the file[_`Tweety.py`_]()**
+* **Open the file[_`Tweety.py`_](https://github.com/Shubham03211998/Twitter-Sentiment-Analysis-Using-Machine-Learning/blob/master/tweety.py)**
 * **First the introduction page will open and then the main page where you need to enter the usename of the profile whose tweets you need to analyze**
 * **Then enter the number of tweets you want to analyse it should be an integer**
 * **Then the required result will show up**
